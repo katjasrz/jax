@@ -91,6 +91,12 @@ operations.
    export/index
 
 .. toctree::
+   :caption: GPU kernel authoring tools
+   :maxdepth: 1
+
+   notebooks/cute_dsl_jax_kernels
+
+.. toctree::
    :caption: Example applications
    :maxdepth: 1
 
